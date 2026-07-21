@@ -1,0 +1,5 @@
+numpy
+opencv-python
+Pillow
+# Install the board-matched local wheel if pip cannot resolve it directly:
+# rknn-toolkit-lite2

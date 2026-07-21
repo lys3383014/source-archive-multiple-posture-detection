@@ -1,0 +1,9 @@
+numpy
+opencv-python
+Pillow
+pyserial
+edge-tts
+openai
+tencentcloud-sdk-python
+# Install the board-matched local wheel if pip cannot resolve it directly:
+# rknn-toolkit-lite2

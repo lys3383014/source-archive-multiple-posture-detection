@@ -1,0 +1,5 @@
+stand
+walk
+bendover
+lying
+sit
